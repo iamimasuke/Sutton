@@ -1,0 +1,8 @@
+#myCanvas {
+    background-color: green;
+}
+
+img{
+    width: auto; /* 幅を自動調整 */
+  height: 20px; /* 高さを100ピクセルに指定 */
+}
